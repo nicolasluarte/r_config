@@ -1,0 +1,5 @@
+R_HOME_USER = /home/nicoluarte
+R_PROFILE_USER = ${HOME}/.config/r/.Rprofile
+R_LIBS_USER = /path/to/your/r/library
+R_HISTFILE = /path/to/your/filename.Rhistory                                             # Do not forget to append the .Rhistory
+MYSQL_HOME = /var/lib/mysql
